@@ -9,6 +9,7 @@
 deploy-options.json
 .vscode
 
+
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
 
@@ -38,4 +39,6 @@ ehthumbs.db
 $RECYCLE.BIN/
 
 # Local environment variables
+
 .env
+
